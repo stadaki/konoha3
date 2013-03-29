@@ -2,7 +2,7 @@ Source: konoha
 Section: interpreters
 Priority: optional
 Maintainer: Tadaki SAKAI <stadaki.dev@gmail.com>
-Build-Depends: debhelper (>= 8.0.0), cmake (>= 2.6), llvm-3.0-dev, libcurl4-openssl-dev, libgmp-dev, libevent-dev, libmecab-dev, mecab-naist-jdic, mpi-default-dev
+Build-Depends: debhelper (>= 8.0.0), cmake (>= 2.6), libreadline-dev, llvm-3.0-dev, libcurl4-openssl-dev, libgmp-dev, libevent-dev, libmecab-dev, mecab-naist-jdic, mpi-default-dev
 Standards-Version: 3.9.2
 Homepage: http://konoha.sourceforge.jp/
 
